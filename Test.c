@@ -11,3 +11,7 @@ void main(){
 int main(){
     m = 0;
 }
+\\ Task 1 Code
+void main(){
+    u = 9;
+}
